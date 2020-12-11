@@ -1,0 +1,10 @@
+C:\Users\nuk3n\Desktop\Escola\Programacao1\AteTeste2\Aula9\MiniProjetoLinks\MiniProjetoLinks\bin\Debug\MiniProjetoLinks.exe.config
+C:\Users\nuk3n\Desktop\Escola\Programacao1\AteTeste2\Aula9\MiniProjetoLinks\MiniProjetoLinks\bin\Debug\MiniProjetoLinks.exe
+C:\Users\nuk3n\Desktop\Escola\Programacao1\AteTeste2\Aula9\MiniProjetoLinks\MiniProjetoLinks\bin\Debug\MiniProjetoLinks.pdb
+C:\Users\nuk3n\Desktop\Escola\Programacao1\AteTeste2\Aula9\MiniProjetoLinks\MiniProjetoLinks\obj\Debug\MiniProjetoLinks.csprojAssemblyReference.cache
+C:\Users\nuk3n\Desktop\Escola\Programacao1\AteTeste2\Aula9\MiniProjetoLinks\MiniProjetoLinks\obj\Debug\MiniProjetoLinks.Form1.resources
+C:\Users\nuk3n\Desktop\Escola\Programacao1\AteTeste2\Aula9\MiniProjetoLinks\MiniProjetoLinks\obj\Debug\MiniProjetoLinks.Properties.Resources.resources
+C:\Users\nuk3n\Desktop\Escola\Programacao1\AteTeste2\Aula9\MiniProjetoLinks\MiniProjetoLinks\obj\Debug\MiniProjetoLinks.csproj.GenerateResource.cache
+C:\Users\nuk3n\Desktop\Escola\Programacao1\AteTeste2\Aula9\MiniProjetoLinks\MiniProjetoLinks\obj\Debug\MiniProjetoLinks.csproj.CoreCompileInputs.cache
+C:\Users\nuk3n\Desktop\Escola\Programacao1\AteTeste2\Aula9\MiniProjetoLinks\MiniProjetoLinks\obj\Debug\MiniProjetoLinks.exe
+C:\Users\nuk3n\Desktop\Escola\Programacao1\AteTeste2\Aula9\MiniProjetoLinks\MiniProjetoLinks\obj\Debug\MiniProjetoLinks.pdb
